@@ -1,0 +1,1 @@
+$(function(){$("#demo01").animatedModal()});
